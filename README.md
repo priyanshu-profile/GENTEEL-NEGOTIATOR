@@ -7,7 +7,8 @@ The folder GENTEEL-NEGOTIATOR contains contains the code for the proposed TRIP N
 
 ## Dataset Request Access
 
-The sample dataset can be found in sample_negochat.csv and sample_ind.csv. 
+The sample dataset can be found in sample_negochat.csv and sample_ind.csv. The dataset is in the cleaning process. The complete dataset will be available shortly.
+
 To request full access to the datasets, fill out the agreement form linked here.
 
 ## Citations

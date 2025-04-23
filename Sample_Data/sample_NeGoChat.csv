@@ -1,0 +1,109 @@
+conversation_id,turn_no,speaker,utterance,negotiation_strategy
+0,0,Traveler,I am interested in reserving the Wellness Retreat package. Could you please provide me with the associated details?,active_listening
+0,1,Agent,"The package boasts an array of amenities, including Health Retreats, Fitness Classes, Relaxation Activities, Nature Walks, Spa Services, Yoga Sessions, and Meditation Practices. These offerings are designed to revitalize both your mind and body, resulting in a relaxed and stress-free state of being.",expanding_the_pie
+0,2,Traveler,Could you provide me with additional information regarding the package?,active_listening
+0,3,Agent,"The cost of the package is $15,000.",no_strategy
+0,4,Traveler,"I am willing to enhance the package price to $15,000.",gradual_concession_making
+0,5,Agent,"You need not compromise on any aspect. Even the most luxurious hotel can be included with this amount. The updated amenities include Healing Therapies, Relaxation Areas, Mindfulness Spaces, Spa access, Fitness classes, and Nature walks. The previous amenities remain unchanged.",no_strategy
+0,6,Traveler,"I will proceed with this budget, but I expect to be charged fairly and reasonably.",no_strategy
+0,7,Agent,"With regards to your budget, you have the option to choose from Accommodation, Healthy Cuisine, and Yoga and Meditation, along with various amenities such as Healing Therapies, Relaxation Areas, Mindfulness Spaces, Spa access, Fitness classes, and Nature walks. You are guaranteed to have a satisfying experience.",expanding_the_pie
+0,8,Traveler,"I appreciate your suggestion, but I would rather choose to explore various cities instead of spending the entire day at a Spa resort.",active_listening
+0,9,Agent,We appreciate your time. We are regretfully removing the Spa Resort service from our offerings.,no_strategy
+0,10,Traveler,Please provide information on the accommodation facilities available at the Wellness Retreat.,active_listening
+0,11,Agent,"The package provides a diverse range of amenities, including Relaxation Areas, Mindfulness Spaces, Spa access, Fitness classes, and Nature walks, thereby enabling you to partake in both exhilarating adventures and serene leisure activities.",expanding_the_pie
+0,12,Traveler,"I have a predetermined budget that I am willing to adhere to, and I kindly request that you refrain from misleading me regarding the costs associated with the Wellness Retreat.",no_strategy
+0,13,Agent,"We also provide the option to purchase individual services and facilities separately, priced at $19,000. If you require additional amenities, please provide us with your budget, and we will tailor the package to meet your needs.",expanding_the_pie
+0,14,Traveler,"I am interested in acquiring this package, but I plan to embark on another tour after completing this one. I would like to finalize the deal at a price of $19,000.",expanding_the_pie
+0,15,Agent,"It is highly recommended to consider the exciting wildlife adventure. We can offer you an accommodation option, and the package will cost you $17,000. The experience is undoubtedly worth the investment.",expanding_the_pie
+0,16,Traveler,"Regrettably, I am unable to accommodate an increased budget for this arrangement. Therefore, I propose canceling the deal.",no_strategy
+0,17,Agent,"A wide range of options are available within your budget, providing opportunities for enjoyment, learning, and regret-free decision-making. Please reassess your budget to optimize your experience.",expanding_the_pie
+0,18,Traveler,"Before making a final decision, I will explore several alternatives. Your offerings are extensive, and I would like to inquire about any customer loyalty programs available.",expanding_the_pie
+0,19,Agent,"Dear Sir, we are unable to accommodate requests below a certain threshold. Thank you for your cooperation. Should you have any further queries or wish to proceed with the package, please do not hesitate to contact us. We wish you a productive and pleasant day ahead.",no_strategy
+1,0,Traveler,Good day! I am impressed by your Beach Resort package. Could you kindly provide me with the pricing details?,active_listening
+1,1,Agent,"The package is available at a remarkably affordable price of $7,000, which is a reasonable value for any traveler.",leverage_information
+1,2,Traveler,Could you please provide me with the exact cost of the package?,no_strategy
+1,3,Agent,"The package has a price of $21,900.",no_strategy
+1,4,Traveler,What amenities does the Beach Resort offer?,active_listening
+1,5,Agent,"This package provides a truly beachfront ambiance and offers an extensive range of amenities, including Scuba Diving, Beach Games, Jet Skiing, Kids' Club, Beachfront Lounging, and Scooter Rentals, thereby creating an ideal vacation experience for you.",expanding_the_pie
+1,6,Traveler,I have no interest in the Beach Games amenity. Could you please remove it from the package?,no_strategy
+1,7,Agent,"Of course, we can accommodate your request to remove the Beach Games service. In exchange, we can provide you with a more affordable option that includes beachfront lounging services. The total cost for this revised package will be $21,900.",expanding_the_pie
+1,8,Traveler,I would appreciate it if you could omit the Beach Games service from the package.,logrolling
+1,9,Agent,Thank you for confirming; we have decided to discontinue Beach Games as a service.,no_strategy
+1,10,Traveler,I am interested in partaking in Scuba Diving. Could you please include this activity in the package?,active_listening
+1,11,Agent,"I can certainly accommodate your request to add Scuba Diving to your package. The revised total tour cost is now $23,200.",expanding_the_pie
+1,12,Traveler,"I will opt for the package at a cost of $23,200.",no_strategy
+1,13,Agent,"The package price has been revised to $24,400, as it now includes additional features to enhance your holiday experience, including beachfront lounging.",expanding_the_pie
+1,14,Traveler,"I would appreciate a discount, as I can only afford up to $18,100.",leverage_information
+1,15,Agent,"This package offers an extensive range of amenities that will provide you with an exhilarating beach experience. However, I must inform you that the actual cost of this package is $23,200, which may require you to reassess your budget.",no_strategy
+1,16,Traveler,I would like to include Treehouse as an additional amenity.,expanding_the_pie
+1,17,Agent,I appreciate your confirmation. We have added Treehouse as an amenity.,leverage_information
+1,18,Traveler,I hereby accept the proposed terms.,no_strategy
+1,19,Agent,We appreciate your confidence in us! We hope you have a delightful experience with our tour package. Please do not hesitate to contact us if you require any additional support. We wish you a wonderful trip!,expanding_the_pie
+2,0,Traveler,Could you kindly provide me with the cost of the Cultural Tour package?,no_strategy
+2,1,Agent,"This package provides a comprehensive range of services, including Accommodation, Transportation, Meals, and Guided City Tours.",leverage_information
+2,2,Traveler,I would appreciate it if you could include a Crafts Workshop as part of the package.,leverage_information
+2,3,Agent,"Following the addition of the Crafts Workshop amenity, the final tour cost is $16,400.",no_strategy
+2,4,Traveler,I do not require a cooking experience as part of my tour package. Could you please remove it from the offerings?,no_strategy
+2,5,Agent,"Certainly, I can offer an alternative solution. A Cultural Shopping Excursion would be an ideal fit within your proposed budget and will complement your tour experience.",expanding_the_pie
+2,6,Traveler,I kindly request to include the Cultural Shopping Excursion in the booking.,active_listening
+2,7,Agent,Thank you for your confirmation. We have added the Cultural Shopping Excursion as an additional amenity for your convenience.,expanding_the_pie
+2,8,Traveler,"Unfortunately, I cannot exceed my budget for this package.",no_strategy
+2,9,Agent,"This experience is of exceptional value. The revised price of $18,000 includes all the requested amenities, providing an excellent return on investment for your budget.",leverage_information
+2,10,Traveler,"I apologize, but the cost of the package exceeds my budget, which is limited to $13,000. I hope you can consider reducing the price to make it more affordable for me.",no_strategy
+2,11,Agent,"Our package offers exceptional value in the local area, with pricing that is competitive when compared to similar services, at $16,000.",no_strategy
+2,12,Traveler,"I prefer to keep the package as is, without any additional services.",no_strategy
+2,13,Agent,No issues; we have removed the additional service from your package.,no_strategy
+2,14,Traveler,Could you please provide information on the type of accommodations available in the Cultural Tour package?,no_strategy
+2,15,Agent,"This package offers top-notch accommodations, transportation, meals, and city tours. Through guided city walks, culinary experiences, crafts workshops, city tour extensions, and cultural shopping excursions, you will gain a deeper appreciation for the local culture.",expanding_the_pie
+2,16,Traveler,"I am willing to compromise on the cost due to the additional amenities, but I cannot exceed an amount of $13,000.",gradual_concession_making
+2,17,Agent,"The package provides an exciting experience for you and your family, with accommodation options available for a total cost of $12,000. This investment is well justified, given the quality of the experience offered.",leverage_information
+2,18,Traveler,"While I appreciate the offer, I must respectfully express that $13,400 is slightly beyond my budget. Would it be possible to negotiate a price reduction to $12,000?",expanding_the_pie
+2,19,Agent,"In light of your request, we can offer the best possible solution by adjusting the budget to $13,700, which is an increase of $700 from the original amount of $13,000.",expanding_the_pie
+2,20,Traveler,"I regret that I cannot afford to pay the full package price of $16,000. My maximum budget is $13,700. I hope you will comprehend this limitation.",no_strategy
+2,21,Agent,"I appreciate your visit. Regrettably, we cannot further reduce the price. We hope you discover a suitable alternative.",no_strategy
+3,0,Traveler,Good day! I am intrigued. Could you please provide me with the package cost for the Cultural Heritage Tour?,active_listening
+3,1,Agent,"Of course! This package will help you realize your aspirations and create unforgettable recollections. For just $48,000, you can obtain this exquisite package.",leverage_information
+3,2,Traveler,I request that the language interpretation services be removed as I have already arranged for an interpreter who is proficient in the necessary language.,no_strategy
+3,3,Agent,"If you wish to forgo the language interpreter services, I suggest considering an additional souvenir shopping option. This alteration would result in a reduced tour cost of $21,500.",expanding_the_pie
+3,4,Traveler,I do not wish to participate in the souvenir shopping service.,no_strategy
+3,5,Agent,Thank you for confirming. We have removed the souvenir shopping service from your package as requested.,no_strategy
+3,6,Traveler,"I wish to gain a deeper understanding of the local culture and language, so I kindly request the addition of an interpreter service to my booking.",active_listening
+3,7,Agent,"I shall make available language interpreter services. The final tour cost amounts to $21,500.",no_strategy
+3,8,Traveler,Consent has been given.,no_strategy
+3,9,Agent,"Excellent! Sir, would you like to partake in art and craft workshops? Including these will keep the total cost at a mere $21,500.",leverage_information
+3,10,Traveler,I am interested in adding the art and craft workshops to my booking.,active_listening
+3,11,Agent,Thank you for your confirmation. We have added the art and craft workshops to your tour package as per your request.,active_listening
+3,12,Traveler,Understood.,active_listening
+3,13,Agent,Your confirmation has been received. It has been a pleasure conducting this conversation. Let us proceed to complete the arrangements and finalize the deal.,no_strategy
+4,0,Traveler,I require information on cost-effective travel options. Could you please provide details on the pricing of the Family Adventure Expedition: Fun for Everyone?,no_strategy
+4,1,Agent,"The package provides a comprehensive set of value-added amenities, including Family-Friendly Excursions and Sightseeing Tours, Children's Activity Programs, and Supervision, catering to the diverse needs of all guests.",leverage_information
+4,2,Traveler,"I am already incurring excessive costs for a tour package. I kindly request that we conclude the deal at $6,900.",no_strategy
+4,3,Agent,I regret to inform you that it is not feasible for us to offer this package at the specified price point.,no_strategy
+4,4,Traveler,"I was informed about a tour package which includes activities such as a white-water rafting expedition, zip-lining, and an aerial adventure course. If the deal cannot be offered at a price of $6,900, I will explore alternative options.",expanding_the_pie
+4,5,Agent,"Sir, I suggest including Family-Friendly Excursions and Sightseeing Tours to enhance your tour experience. This inclusion will only add $8,100 to the overall cost.",leverage_information
+4,6,Traveler,I would appreciate it if you could include family-friendly activities in my package.,leverage_information
+4,7,Agent,I appreciate your confirmation. We have added family-friendly activities to your package for your convenience.,expanding_the_pie
+4,8,Traveler,"While I appreciate the offer, I regret that I cannot exceed my budget for personal reasons.",active_listening
+4,9,Agent,Thank you for your cooperation. Here are the final details of your arrangement. We are eager to create a memorable experience for you and your loved ones. We appreciate your decision to trust us!,active_listening
+5,0,Traveler,Could you please inform me about the local customs included in the Festive Splendor: A Celebration Tour?,active_listening
+5,1,Agent,"This package provides a diverse array of amenities, including Traditional Clothing Dress-up and Photo Opportunities, Cultural Workshops and Demonstrations, Assisted Souvenir Shopping, Local Customs Assistance, and a Karaoke Event for a memorable and adventurous experience.",expanding_the_pie
+5,2,Traveler,What is the cost of this package?,no_strategy
+5,3,Agent,"The package's cost is $11,400.",no_strategy
+5,4,Traveler,I regret to inform you that the price point is beyond my budget. Could you possibly offer a more affordable option?,no_strategy
+5,5,Agent,"This package offers a comprehensive and exciting experience in Bali, ensuring that it is well worth the investment.",expanding_the_pie
+5,6,Traveler,Please inform me of the accommodation options available within the Festive Splendor: A Celebration Tour.,active_listening
+5,7,Agent,"The package includes lodging, transportation, meals, and admission to festival activities.",expanding_the_pie
+5,8,Traveler,I would like to arrange for my wife to wear a traditional attire and take a photograph with her in that outfit.,large_initial_concession_making
+5,9,Agent,You wish to include Traditional Costume Dress-up and Photoshoot as an additional amenity to your package?,leverage_information
+5,10,Traveler,I am considering adding this amenity to my booking.,expanding_the_pie
+5,11,Agent,"In light of your request, we are able to provide a discount, reducing the package cost to $12,000.",expanding_the_pie
+5,12,Traveler,"I regret to inform you that my budget ceases at $9,100. Could you perhaps offer any additional discounts?",expanding_the_pie
+5,13,Agent,"Transportation options for exploring the area include luxury sedans or buses, which will take you through the entire itinerary. Please review your budget to ensure it aligns with our offerings.",active_listening
+5,14,Traveler,I do not require the photography service as we will be taking our own selfies. Could you please omit the Traditional Costume Dress-up option.,no_strategy
+5,15,Agent,"I appreciate your desire for a customized package. As an alternative, I suggest adding the Souvenir Shopping Assistance feature, which would result in a package cost of $11,600.",leverage_information
+5,16,Traveler,I do not wish to include souvenirs in my booking.,no_strategy
+5,17,Agent,I understand. We will no longer provide souvenir shopping services.,no_strategy
+5,18,Traveler,"I must respectfully express reservation regarding the current price point. My budget ceiling is restricted to $8,000.",no_strategy
+5,19,Agent,"Unfortunately, this package is not available for under $8,000, but we do have a similar package option within that price range.",leverage_information
+5,20,Traveler,"While this budget option may be somewhat restrictive, we shall proceed with this package.",large_initial_concession_making
+5,21,Agent,We appreciate your cooperation. We will proceed with finalizing the package at this price point. We look forward to your enjoyable celebration tour!,expanding_the_pie

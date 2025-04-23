@@ -7,7 +7,7 @@ The folder GENTEEL-NEGOTIATOR contains the code for the proposed GENTEEL-NEGOTIA
 
 ## Dataset Request Access
 
-The sample dataset can be found in sample_negochat.csv and sample_ind.csv. 
+The sample dataset can be found in sample_NeGoChat.csv and sample_ind.csv. 
 
 To request full data access, fill out the agreement form [linked here](https://www.iitp.ac.in/~ai-nlp-ml/resources.html).
 

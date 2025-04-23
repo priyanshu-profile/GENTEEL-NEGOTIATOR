@@ -1,18 +1,26 @@
 # GENTEEL-NEGOTIATOR
 
-This repository contains the dataset and code for our paper titled [GENTEEL-NEGOTIATOR: LLM-Enhanced Mixture-of-Expert-based Reinforcement Learning Approach for Polite Negotiation Dialogue]()
+This repository contains the dataset and code for our paper titled [GENTEEL-NEGOTIATOR: LLM-Enhanced Mixture-of-Expert-based Reinforcement Learning Approach for Polite Negotiation Dialogue](https://ojs.aaai.org/index.php/AAAI/article/view/34685)
 
 ## Code
-The folder GENTEEL-NEGOTIATOR contains contains the code for the proposed TRIP NEGOTIATOR architecture.
+The folder GENTEEL-NEGOTIATOR contains the code for the proposed GENTEEL-NEGOTIATOR architecture.
 
 ## Dataset Request Access
 
-The sample dataset can be found in sample_negochat.csv and sample_ind.csv. The dataset is in the cleaning process. The complete dataset will be available shortly.
+The sample dataset can be found in sample_negochat.csv and sample_ind.csv. 
 
-To request full access to the datasets, fill out the agreement form linked here.
+To request full access to the datasets, fill out the agreement form [linked here]([https://ojs.aaai.org/index.php/AAAI/article/view/34685](https://www.iitp.ac.in/~ai-nlp-ml/resources.html).
 
 ## Citations
 
-If you are using this work or the dataset, cite the paper
+If you are using this work or the dataset, cite the paper.
 
-Priyanshu Priya, Rishikant Chigrupaatii, Mauajama Firdaus, Asif Ekbal (2025). GENTEEL-NEGOTIATOR: LLM-Enhanced Mixture-of-Expert-based Reinforcement Learning Approach for Polite Negotiation Dialogue. In Proceedings of the AAAI Conference on Artificial Intelligence
+@inproceedings{priya2025genteel,
+  title={GENTEEL-NEGOTIATOR: LLM-Enhanced Mixture-of-Expert-Based Reinforcement Learning Approach for Polite Negotiation Dialogue},
+  author={Priya, Priyanshu and Chigrupaatii, Rishikant and Firdaus, Mauajama and Ekbal, Asif},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={23},
+  pages={25010--25018},
+  year={2025}
+}
